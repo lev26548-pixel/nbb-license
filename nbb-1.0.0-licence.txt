@@ -1,0 +1,30 @@
+NBB 1.0.0 LICENSE (No-Bypass & Non-Commercial Database License)
+
+1. DEFINITIONS
+"Database" means any dataset, JSON dump, collection of identifiers, logs, or any subset or derivative thereof distributed under this License.
+"Original Author" means the creator or entity that originally published and maintains the Database.
+"Licensee" means any individual or entity that downloads, copies, hosts, modifies, or accesses the Database.
+
+2. PERMITTED USES
+Subject to strict compliance with all terms of this License, the Original Author grants the Licensee a non-exclusive, revocable right to:
+a) Personal Use: Download, view, and analyze the Database for personal, research, or statistical purposes.
+b) Modification: Edit, filter, or modify entries within a local copy of the Database.
+c) Non-Commercial Hosting: Host the Database on a personal website or server strictly for non-commercial public viewing or reading.
+
+3. STRICT PROHIBITIONS
+The Licensee is strictly prohibited from:
+a) Sale & Monetization: Selling, renting, sublicensing, or charging any fee for access to the Database, in whole or in part.
+b) Unauthorized API & Game Integration: Deploying the Database via an API, mirror, quick-save endpoint, or script for automated verification, enforcement, or commercial project integration without explicit authorization or an active subscription from the Original Author.
+c) Circumvention: Using a downloaded copy of the Database to bypass the Original Author's official API limits or access rules.
+
+4. MANDATORY ATTRIBUTION
+Whenever the Database (or any modified version of it) is displayed on a website, accessed via a reading interface, or used in any project, the Licensee MUST provide a clear, visible link to the Original Author's source.
+
+5. VIRAL SCOPE (DERIVATIVE WORKS)
+The obligations of this License apply to anyone who downloads the Database and creates a derivative file or project based on it. Even if 99% of the original information is deleted or altered, this License remains fully binding as long as at least one (1) record or line from the Original Author's Database is present in the resulting file.
+
+6. AUTOMATIC TERMINATION
+Any violation of Sections 3, 4, or 5—including unauthorized sale, commercial API hosting, or removal of source attribution—automatically and immediately revokes all rights granted under this License and terminates the Licensee's access to the Database.
+
+7. DISCLAIMER OF WARRANTY
+THE DATABASE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE ORIGINAL AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE DATABASE.

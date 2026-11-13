@@ -1,4 +1,6 @@
-<img src="nbb.png" alt="NBB 1.0.0 License" width="180">
+<p align="center">
+  <img src="./nbb.png" alt="NBB 1.0.0 License" width="180">
+</p>
 
 # NBB 1.0.0 License
 **No Business Boycott License**

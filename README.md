@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./nbb.png" alt="NBB 1.1.0 License" width="240">
+  <img src="./nbb.png" alt="NBB 1.1.1 License" width="240">
 </p>
 
-# NBB 1.1.0 License
+# NBB 1.1.1 License
 **No Business Boycott License**
 
-Official repository for the **NBB 1.1.0 (No Business Boycott)** license — a database licensing standard designed to protect open datasets, ban lists, and registries from unauthorized commercial resale, scraping, and game-server integration without permission.
+Official repository for the **NBB 1.1.1 (No Business Boycott)** license — a database licensing standard designed to protect open datasets, ban lists, and registries from unauthorized commercial resale, scraping, and game-server integration without permission.
 
 ---
 
@@ -20,12 +20,12 @@ Official repository for the **NBB 1.1.0 (No Business Boycott)** license — a da
 
 ## How to Apply to Your Database
 
-1. Copy the full license text from [`nbb-1.1.0-license.txt`](./nbb-1.1.0-license.txt) into a `LICENSE` file in your project root.
+1. Copy the full license text from [`nbb-1.1.1-license.txt`](./nbb-1.1.1-license.txt) into a `LICENSE` file in your project root.
 2. Add the license reference to your dataset metadata (e.g., in JSON headers) or documentation:
 
 ```json
 {
-  "license": "NBB 1.1.0",
+  "license": "NBB 1.1.1",
   "license_url": "https://github.com/lev26548-pixel/nbb-license",
   "source": "https://your-project-link.com"
 }
